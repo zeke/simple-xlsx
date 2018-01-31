@@ -13,7 +13,7 @@ module.exports = function (cb) {
         strings.push(v.t)
       })
     if(worksheet1)
-      parseWorkshee1(worksheet1)
+      parseWorksheet1(worksheet1)
   }
 
   var columns = {}
