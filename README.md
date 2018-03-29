@@ -2,6 +2,8 @@
 
 get a table out of an excel spreadsheet.
 
+Written by [@dominictarr](https://github.com/dominictarr), adopted by [@zeke](https://github.com/zeke).
+
 ## Example
 
 ``` js
